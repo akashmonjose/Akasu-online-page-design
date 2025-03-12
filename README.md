@@ -12,6 +12,8 @@ This is a modern and user-friendly online store design for AKASU, a platform tha
 ## Tools Used
 - Figma – For wireframing and UI/UX design
 - Adobe Express – For logo creation and branding elements
+- Canva
+- Adobe Illustrator
 
 ## Features
 - Shop by Category & Best Sellers Section – Makes product discovery effortless
